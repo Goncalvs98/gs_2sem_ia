@@ -2,6 +2,8 @@
 
 Este projeto utiliza **Machine Learning** para prever o valor do reembolso com base em características das estações de carregamento, como custo, localização e marca. Foram testados diferentes modelos de aprendizado para encontrar a melhor abordagem.
 
+https://youtu.be/4JXDqonKUgk
+
 ## 🚀 Tecnologias Utilizadas
 - Python 3.10+
 - Pandas
